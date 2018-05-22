@@ -10,4 +10,4 @@
   
   node app.js 
   
-  L'application est désormais accesssible à l'url http://localhost:8080/.
+  L'application est désormais accesssible à l'url http://localhost:8080/
